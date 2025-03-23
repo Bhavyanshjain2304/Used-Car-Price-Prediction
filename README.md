@@ -1,5 +1,5 @@
-# Used Car Price Prediction
-## Data Dictionary
+# 🚗 Used Car Price Prediction
+## 📊Data Dictionary
 Here is a detailed data dictionary for the columns in the "Indian IT Cities Used Car Dataset 2023":
 
 | Column Name       | Description                                    |
@@ -24,7 +24,7 @@ Here is a detailed data dictionary for the columns in the "Indian IT Cities Used
 | Warranty          | Warranty offered by the dealer                |
 | Quality Score     | Quality score of the car                       |
 
-## Conclusion
+## 📌Conclusion
 In the course of this data science project aimed at predicting used car prices in major Indian metro cities, several significant insights have emerged through exploratory data analysis and machine learning techniques. These insights shed light on both the demand and pricing dynamics within the Indian used car market, offering valuable information to both prospective buyers and sellers.
 
 **Demand and Price Trends:**

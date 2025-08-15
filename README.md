@@ -25,7 +25,7 @@ Here is a detailed data dictionary for the columns in the "Indian IT Cities Used
 | Quality Score     | Quality score of the car                       |
 
 ## 📌Conclusion
-In the course of this data science project aimed at predicting used car prices in major Indian metro cities, several significant insights have emerged through exploratory data analysis and machine learning techniques. These insights shed light on both the demand and pricing dynamics within the Indian used car market, offering valuable information to both prospective buyers and sellers.
+This data science project is aimed at predicting used car prices in major Indian metro cities, several significant insights have emerged through exploratory data analysis and machine learning techniques. These insights shed light on both the demand and pricing dynamics within the Indian used car market, offering valuable information to both prospective buyers and sellers.
 
 **Demand and Price Trends:**
 One of the most notable observations is the strong correlation between demand and price within the used car market. Lower-priced used cars enjoy a significantly higher demand, indicating a preference among consumers for budget-friendly options. In contrast, luxury car manufacturers such as MG, Mercedes Benz, BMW, Volvo, and KIA command the highest prices. This highlights a trend where consumers are more inclined to opt for new luxury cars instead of pre-owned ones.
